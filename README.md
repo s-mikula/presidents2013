@@ -1,5 +1,4 @@
-# Effect of Fake News on Voting Behavior: Evidence from 2013 Czech Presidential Election
+# Careful what you say: The effect of a disinformation campaign on the 2013 Czech presidential run-off election
 
 By **Martin Guzi** and **Štěpán Mikula** (stepan.mikula@econ.muni.cz)
-
-In this paper we exploit a natural experiment that took place in 2013 two-round Presidential election in the Czech Republic to identify the effect of fake news on electoral outcomes. The fake news associated a vote for one of candidates with a legally and politically unfounded risk to property ownership of a specific group of voters and emerged between election rounds affecting only the run-off. We use municipality-level data in difference-in-differences framework to show that the fake news decreased the support for allegedly risky candidate while it increased voter turnout and support for the other candidate.
+We exploit a quasi-natural experiment that emerged during the Czech presidential run-off election to identify the impact of fake news on electoral outcomes. A~disinformation campaign associated a vote for one of the candidates with a legally and politically unfounded risk relevant to people owning houses confiscated from ethnic Germans after the Second World War. Using municipality-level data in a~difference-in-differences framework, our analysis suggests that the disinformation campaign affected the electoral outcomes and increased voter turnout in municipalities with the higher share of voters at risk of the unproven threat to housing ownership.
